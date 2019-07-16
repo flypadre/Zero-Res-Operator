@@ -17,5 +17,5 @@ MonoBehaviour:
     come up from behind you asking you for your things.\r\n\r\nDo you:\r\n\r\n1. Fight
     them.\r\n\r\n2. Give them your stuff."
   nextStates:
-  - {fileID: 11400000, guid: d2267a949377fb54d8446979383f960a, type: 2}
+  - {fileID: 11400000, guid: f5f9f199e781fd74da927026707d78ed, type: 2}
   - {fileID: 11400000, guid: 26273d3856b4c0442a6cbc588393de49, type: 2}

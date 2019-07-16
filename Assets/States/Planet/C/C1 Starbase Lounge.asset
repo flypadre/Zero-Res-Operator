@@ -18,5 +18,5 @@ MonoBehaviour:
     that there were two Zeloc in the lounge a male and a female.\r\n\r\nDo you:\r\n\r\n1.
     Talk to the female Zeloc.\r\n\r\n2. Talk to the male Zeloc."
   nextStates:
-  - {fileID: 11400000, guid: a923304c306225e46bac963a9f9c0eb0, type: 2}
   - {fileID: 11400000, guid: 3b5f52bff814961468bd4fa145fb6336, type: 2}
+  - {fileID: 11400000, guid: a923304c306225e46bac963a9f9c0eb0, type: 2}
