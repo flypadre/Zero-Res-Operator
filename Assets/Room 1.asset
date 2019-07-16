@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
   m_Name: Room 1
   m_EditorClassIdentifier: 
-  storyText: 'You went through the ring.
+  storyText: 'You went through the ring and threw up everywhere.
 
 '
   nextStates:
