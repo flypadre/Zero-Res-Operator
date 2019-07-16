@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
+  m_Name: A10 Vehicle Hide
+  m_EditorClassIdentifier: 
+  storyText: "As you look around you notice a hover vehicle stacked with cargo boxes
+    and decide to hide in between them. There is so much going on that the customs
+    agents quickly flag the merchant through the gate.\r\n\r\nA sigh of relief floods
+    over you as you realize you are now in the city.\r\n\r\nDo you:\r\n\r\n1. Ask
+    for directions to the Stargate Lounge.\r\n\r\n2. Wander around looking for the
+    Stargate Lounge."
+  nextStates:
+  - {fileID: 11400000, guid: 909a884f121e95e49beb8c9aedacecaf, type: 2}
+  - {fileID: 11400000, guid: ac1895e91be11fb4bb1b0533e216c8a4, type: 2}

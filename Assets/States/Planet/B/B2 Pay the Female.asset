@@ -10,7 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
-  m_Name: A8
+  m_Name: B2 Pay the Female
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "You decide to pay the femaled Zeloc. She hands you the trezor key with
+    the key codes installed and tell you that it only will work on the southern enterence
+    to the lab facility.\r\n\r\nPress 1 to continue\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 536e26ecd4d53a040a4ef64d073e2e17, type: 2}

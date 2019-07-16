@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
-  m_Name: A1Planet Start
+  m_Name: A4 Code Entry
   m_EditorClassIdentifier: 
-  storyText: "The bright light forces your eyes to squint as you regain your consciousness.\r\nLooking
-    around yourself you see a dry, flat desert wilderness. A strange ring standing
-    \r\ntwelve feet tall stands directly to your right.\r\n\r\nChoose\n1. Do you walk
-    through the ring?\r\n2. Do you begin exploring the desert?\n"
+  storyText: "The Customs Agent enters your code into a handheld scanner. After a
+    few seconds he turns to you saying, \"Good to see that you made it back from the
+    siege at Cliestron. We lost a lot of good men to those Federation scum.\"\r\n\r\nYou
+    nod to the agent as he motions you towards the entrance into the city.\r\n\r\n1.
+    Enter the city."
   nextStates:
   - {fileID: 11400000, guid: e98222ea1c40e174f9a91fe535d778c5, type: 2}
-  - {fileID: 11400000, guid: 88a5e603a63e66b4292d3bc014fc5749, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
+  m_Name: B4 Male Zeloc
+  m_EditorClassIdentifier: 
+  storyText: "You decide  to approach the male Zeloc. He nods at you as\r\nmove in
+    his direction. As you sit down next to him  he asks you how he can help you.  You
+    say that you are interested in some key codes. He pulls out his trezor key and
+    shows you a partial code. Before you can\r\nsee the whole thing he shuts the key
+    off and tells you to pay first.\r\n\r\nDo you:\r\n\r\n1. Pay him.\r\n\r\n2. Tell
+    him to give you the key first."
+  nextStates:
+  - {fileID: 11400000, guid: 4618bc67954b936418a98e089d00f8e5, type: 2}
+  - {fileID: 11400000, guid: 07449c6787d6f1d409b7da76ff2e2d79, type: 2}

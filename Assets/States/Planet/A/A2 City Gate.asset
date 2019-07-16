@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
+  m_Name: A2 City Gate
+  m_EditorClassIdentifier: 
+  storyText: "After about two hours of walking you see in the distance before you
+    a massive metallic wall that looks to be 500 feet tall. The path leads directly
+    to an open gate where there is a line of people and creatures making there way
+    into the city.\r\n\r\nDo you:\r\n\r\n1. Disguise yourself and walk in?\r\n\r\n2.
+    Hide in one of the vehicles entering into the city."
+  nextStates:
+  - {fileID: 11400000, guid: 2607a35b9c6e2f343be48fb400299abe, type: 2}
+  - {fileID: 11400000, guid: e7d4db0b85b67274aab887df8db3df6b, type: 2}

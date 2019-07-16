@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
-  m_Name: B3
+  m_Name: B8 Excuse
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "As you fumble with the excuse it is clear that the guard doesn't believe
+    you and presses a button on his wrist.\r\n\r\nPress 1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: e1d53cdf8206341409a40212e344efe3, type: 2}
