@@ -10,11 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
-  m_Name: Room 2
+  m_Name: B3
   m_EditorClassIdentifier: 
-  storyText: 'You begin wandering around the desert.
-
-'
-  nextStates:
-  - {fileID: 11400000, guid: f310c568d95fb6846bf7aaf4cd724ef1, type: 2}
-  - {fileID: 11400000, guid: efb7146a5fc70e048ab00d80fcc7a8a2, type: 2}
+  storyText: 
+  nextStates: []

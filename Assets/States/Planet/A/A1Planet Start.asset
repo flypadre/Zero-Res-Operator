@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
-  m_Name: StartingState
+  m_Name: A1Planet Start
   m_EditorClassIdentifier: 
   storyText: "The bright light forces your eyes to squint as you regain your consciousness.\r\nLooking
     around yourself you see a dry, flat desert wilderness. A strange ring standing

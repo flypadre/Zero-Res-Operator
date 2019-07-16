@@ -10,11 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
-  m_Name: Room 1
+  m_Name: A8
   m_EditorClassIdentifier: 
-  storyText: 'You went through the ring and threw up everywhere.
-
-'
-  nextStates:
-  - {fileID: 11400000, guid: a2f8aeab14ef75a47898b9c62e0895e4, type: 2}
-  - {fileID: 11400000, guid: efb7146a5fc70e048ab00d80fcc7a8a2, type: 2}
+  storyText: 
+  nextStates: []
