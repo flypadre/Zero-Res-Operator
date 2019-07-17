@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90aee09a44b9b814a81ae67d27930622, type: 3}
   m_Name: A0 Introduction
   m_EditorClassIdentifier: 
-  storyText: "Welcom to this game. It's a choose your own adventure. Be careful what
+  storyText: "Welcome to this game. It's a choose your own adventure. Be careful what
     you choose.\n\nThroughout the game you will be asked to make your choice by pressing
-    either the:\n1 KEY \nor\n2 KEY\n\nAt any point in time press Q to quit."
+    either the:\n\"1\" \nor\n\"2\"\n\nPress \"1\" to begin game.\nAt any point in
+    time press Q to quit."
   nextStates:
   - {fileID: 11400000, guid: efb7146a5fc70e048ab00d80fcc7a8a2, type: 2}
